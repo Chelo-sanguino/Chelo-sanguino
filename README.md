@@ -9,6 +9,7 @@
 # Sobre mi persona🙇🏻‍♂️
 - Estudie en el colegio La Salle Tarija-Bolivia
 - Obtuve logros deportivos en voley,atletismo,futsal,futbol, etc
+- Conocimiento en word,excel y power point
 - Actualmente me encuentro estudiando Ing. de Sistemas, al parecer es un mix de todas las ingenerias pero veremos que nos depara el futuro
 - Cursando las siguientes materias:
    📉 Calculo

@@ -11,14 +11,6 @@
 - Obtuve logros deportivos en voley,atletismo,futsal,futbol, etc
 - Conocimiento en word,excel y power point
 - Actualmente me encuentro estudiando Ing. de Sistemas, al parecer es un mix de todas las ingenerias pero veremos que nos depara el futuro
-- Cursando las siguientes materias:
-   📉 Calculo
-   📚 Algebra lineal
-   📝 Matematicas Discretas 
-   👣 Idiomas
-   📉Antropologia Cristiana
-   😖Introduccion a la Programacion
- ---
  ### Deseos de aprender🧠
  
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
